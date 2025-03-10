@@ -17,5 +17,3 @@ This project aims to offer a seamless chat interface where users can ask questio
 ### Additional Enhancements  
 - **Component-Based Development** – Built using React for better maintainability.  
 - **Custom Styling** – Uses CSS for a visually appealing and intuitive design.  
-
-This project was originally built using Gemini 1.0 Pro. It has now been fully updated to integrate Gemini 1.5 Flash, ensuring seamless compatibility with the latest AI advancements. The implementation has been optimized to work efficiently with the new model, maintaining all core functionalities.
